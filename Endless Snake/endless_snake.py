@@ -393,7 +393,7 @@ clock = pygame.time.Clock()
 
 arrowKey = ArrowKeyboard()
 
-game = Game3(screen)
+game = Game(screen)
 
 
 while not game.done:
